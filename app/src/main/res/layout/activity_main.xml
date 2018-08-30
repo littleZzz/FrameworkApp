@@ -14,4 +14,10 @@
         android:layout_height="wrap_content"
         android:text="点击进行请求" />
 
+    <Button
+        android:id="@+id/btn_permission"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="请给我权限" />
+
 </LinearLayout>
